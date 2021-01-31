@@ -29,7 +29,7 @@ struct process_stats{
 
 enum SORT_ORDER { CPU_TIME, PROCESS_NUMBER, START_TIME, IO_TIME };
 
-//allthe functions available for use
+//all the functions available for use
 
 //clears vector (or whatever datastructure you choose) holding process_stats structs
 //attempt to open file 'filename' to read, parse its rows
